@@ -3,8 +3,8 @@
 - Download: https://github.com/0736b/Yu-Gi-Oh_MD_dumped/releases, open trainer then open game wait to load into main menu and press F1, go solo and clear all chapter!
 
 ### Features
-- [x] Instant Win (0 enemy card)
+- [x] Instant Win (solo)
 - [ ] Reveal cards
 - [ ] Speedhack
-- [ ] Duel skip
+- [ ] Duel skip (solo)
 
