@@ -5,6 +5,6 @@
 ### Features
 - [x] Instant Win (solo)
 - [ ] Reveal cards
-- [ ] Speedhack
+- [x] Speedhack
 - [ ] Duel skip (solo)
 
